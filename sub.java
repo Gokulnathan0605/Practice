@@ -1,10 +1,10 @@
 package Practice;
 
-public class adding{
-    public static void main(String[] args){
-        int a=10;
-        int b=20;
-        int sum =b-a;
+public class sub {
+    public static void main(String[] args) {
+        int a = 10;
+        int b = 20;
+        int sum = b - a;
         System.out.println(sum);
     }
 }
